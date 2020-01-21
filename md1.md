@@ -1,5 +1,5 @@
 # 画像テスト
 
-![images/img1.png](画像1)
+![画像テスト](images/img1.png)
 
 ## サンプル
